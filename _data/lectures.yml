@@ -46,12 +46,12 @@
 - title: "Lecture 9 (Apr 23): Decision Networks"
   filename: CSCE580-lecture9--DNs
   dirname: lectures
-  tldr: "This lecture is about graphical models that extend belief networks to include decision variables and utility."
+  tldr: "This lecture is about graphical models that extend belief networks to include decision variables and utility"
 
 - title: "Lecture 10 (Apr 25): Hidden Markov Models"
-  filename: csce580-12
+  filename: CSCE580-lecture10--HMMs
   dirname: lectures
-  tldr: ""
+  tldr: "This lecture is about models in which the system is assumed to be a Markov process with unobservable states"
 
 - title: "Lecture 11* (May 3): Learning: Naïve Bayes"
   filename: csce580-12
