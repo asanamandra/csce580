@@ -26,7 +26,8 @@ The Pac-Man projects apply an array of AI techniques to playing Pac-Man. These p
 ### [P4: Ghostbusters](https://pooyanjamshidi.github.io/csce580/project4/) 
 - Probabilistic inference in a hidden Markov model tracks the movement of hidden ghosts in the Pacman world. Students implement exact inference using the forward algorithm and approximate inference via particle filters.
 
-### P5: Machine Learning 
+### [P5: Machine Learning](https://pooyanjamshidi.github.io/csce580/project5/) 
+- Students implement the perceptron algorithm and neural network models, and apply the models to several tasks including digit classification.
 
 ### Contest: Multi-Agent Adversarial Pacman
 
